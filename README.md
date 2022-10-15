@@ -2,19 +2,17 @@
   [APPLICATION]
 </h1>
 
-#### 📌 Overview
+## 📌 Overview
 
 
-#### 🧾 Features
+## 🧾 Features
 <ul>
 	<li>✔ Feature 01</li>
 	<li>✔ Feature 02</li>
 </ul>
 
-
 ## 💻 Technologies
 These are all the technologies and patterns used to develop this application
-##### BackEnd
 - [Technology](URL)
 
 ## ⚙️ Executing the Project
